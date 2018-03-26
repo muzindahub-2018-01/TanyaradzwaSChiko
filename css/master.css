@@ -1,0 +1,76 @@
+header {
+  background-color: 0090ff;
+  padding-bottom: 25px #1a75ff;
+  font-family: verdana;
+  font-size: 1.25em;
+  text-align:left;
+  margin: 25px black;
+}
+
+.headerimage {
+  max-width: 100px;
+  float:left 100px;
+}
+
+li {
+  color: #ffcc00;
+  display: inline;
+}
+
+.linklist {
+  text-align:right;
+}
+
+.image {
+  color: white;
+  text-align: left;
+  padding: 20% 24%;
+  border-bottom: 3px solid #49535d;
+  margin: 30px auto ;
+  width: 0.1%;
+  border-radius: 47%;
+  background: url('../img/tanya2.png') no-repeat center;
+  background-size: contain;
+}
+
+.footer {
+  position: sticky;
+}
+
+body {
+    background-color: #ffcc00;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.header
+.p {
+    font-family: verdana;
+    font-size: 1em;
+}
+
+
+
+.webdevelopment,
+.frontenddesign
+{
+  width: 46.5%;
+  padding: 20px;
+}
+
+.webdevelopment {
+float: left
+}
+
+.frontenddesign {
+ float: right
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
